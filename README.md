@@ -1,5 +1,6 @@
 # Boolean Expression Evaluator
-![Uploading image.png…]()
+![Uploading Screenshot 2025-02-22 204100.png…]()
+
 
 ## Overview
 This project is a **Boolean Expression Evaluator** written in Java. It allows users to evaluate Boolean expressions by accepting values for logical variables. The program supports the basic Boolean operations: AND (`.`), OR (`+`), and NOT (`~`). The expressions are read from a text file, and the results of the evaluation are shown as either `1` (true) or `0` (false) based on the input values.
